@@ -27,6 +27,7 @@ public class Board {
 		
 		try {
 			this.blankBoard = ImageIO.read(new File("src/BlankGoBoard.png"));
+			
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
