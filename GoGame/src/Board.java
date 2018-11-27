@@ -13,7 +13,7 @@ public class Board {
 		JPanel jp = new JPanel();
 		Dimension d = new Dimension(1280,720);
 		jp.setSize(d);
-		jp.setBackground(Color.white);
+		jp.setBackground(Color.RED);
 		
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
