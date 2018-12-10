@@ -3,7 +3,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Board board = new Board();
+		Window w = new Window();
+		w.add(new Game());
 	}
 
 }
